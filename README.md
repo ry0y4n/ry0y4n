@@ -1,4 +1,8 @@
-### Hi there 👋
+### sit difficile; experiar tamen.👣
+
+[![](https://img.shields.io/badge/veranda-music-blueviolet.svg?style=plastic)](https://twitter.com/AnoTensai)
+
+
 
 <!--
 **ry0y4n/ry0y4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
